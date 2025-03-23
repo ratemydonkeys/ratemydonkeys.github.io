@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rating Donkeys.... since 2025
+title: Rating Waterloo Donkeys.... since 2025
 ---
 
 ## ECE327 -- Winter 2025
@@ -13,7 +13,7 @@ title: Rating Donkeys.... since 2025
 ## Overall Rating: ⭐⭐⭐⭐⭐ / 5  
 
 ## Review Summary  
-Donkeys seem to want to haul their lab load only at the last minute.. mere days before the deadline!
+Donkeys seem to want to haul their lab load only at the last minute.. mere days before the deadline! Some donkeys didn't even wait until end of term before passing premature judement on uwflow, why??!
 
 ## Detailed Breakdown  
 
