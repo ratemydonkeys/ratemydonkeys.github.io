@@ -1,5 +1,5 @@
-# Donkey Review: [ECE327]
-![donkey](./ratemydonkeys.github.io/donkey.webp)
+# Donkey Review
+![donkey](./img/donkey.webp)
 
 **Number of donkeys:** [~170]  
 **Semester/Year:** [Winter, 2025]  
