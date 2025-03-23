@@ -1,3 +1,7 @@
+---
+layout: default
+title: Rating Donkeys.... since 2025
+---
 
 ## ECE327 -- Winter 2025
 
