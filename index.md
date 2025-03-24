@@ -3,6 +3,25 @@ layout: default
 title: Rating Waterloo Donkeys.... since 2025
 ---
 
+## ECE327 -- Winter 2025 (Elite Donkey #3 -- Egyptian)
+
+![donkey](./img/canada.webp)
+
+## Overall Rating: ⭐⭐⭐⭐⭐ / 5  
+
+## Review Summary  
+Donkey has the voice of an opera singer. Rallies troops together, natural
+leader.
+
+## Detailed Breakdown  
+
+- **Learning Style:** Quiet most of the time but will assertively ask good
+questions. 
+- **Grades:** Could be better.
+- **Workload & Difficulty:** Waits until it is too lte.
+- **Engagement & Helpfulness:** The classroom would be a wild place without him,
+- **Donkey Quality:** Canada's loudest
+
 ## ECE327 -- Winter 2025 (Elite Donkey #1 -- Egyptian)
 
 ![donkey](./img/egypt.webp)
