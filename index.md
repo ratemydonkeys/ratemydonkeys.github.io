@@ -3,6 +3,23 @@ layout: default
 title: Rating Waterloo Donkeys.... since 2025
 ---
 
+## ECE327 -- Winter 2025 (Elite Donkey #0 -- Singaporean)
+
+![donkey](./img/singapore.webp)
+
+## Overall Rating: ⭐⭐⭐⭐⭐ / 5  
+
+## Review Summary  
+Donkey sits on the front row and always asks transcendental questions.
+
+## Detailed Breakdown  
+
+- **Learning Style:** Very inquisitive, and seems to want to learn. 
+- **Grades:** Could be better
+- **Workload & Difficulty:** Diligent and hard working
+- **Engagement & Helpfulness:** Super engaged, and will ask tons of questions.
+- **Donkey Quality:** Singapore's best
+
 ## ECE327 -- Winter 2025
 
 ![donkey](./img/donkey.webp)
