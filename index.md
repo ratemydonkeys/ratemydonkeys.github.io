@@ -9,3 +9,9 @@ title: Rating Waterloo Donkeys.... since 2025
     </li>
   {% endfor %}
 </ul>
+
+<style>
+  .footer {
+    display: none;
+  }
+</style>
