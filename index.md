@@ -19,7 +19,7 @@ leader.
 questions. 
 - **Grades:** Could be better.
 - **Workload & Difficulty:** Waits until it is too lte.
-- **Engagement & Helpfulness:** The classroom would be a wild place without him,
+- **Engagement & Helpfulness:** The classroom would be a wild place without him
 - **Donkey Quality:** Canada's loudest
 
 ## ECE327 -- Winter 2025 (Elite Donkey #1 -- Egyptian)
