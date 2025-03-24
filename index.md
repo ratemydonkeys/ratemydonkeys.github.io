@@ -3,7 +3,7 @@ layout: default
 title: Rating Waterloo Donkeys.... since 2025
 ---
 
-## ECE327 -- Winter 2025 (Elite Donkey #3 -- Egyptian)
+## ECE327 -- Winter 2025 (Elite Donkey #3 -- Canadian?)
 
 ![donkey](./img/canada.webp)
 
