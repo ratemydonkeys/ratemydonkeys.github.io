@@ -29,7 +29,7 @@ questions.
 ## Overall Rating: ⭐⭐⭐⭐⭐ / 5  
 
 ## Review Summary  
-Donkey sits on the front row and always asks transcendental questions. Sometimes
+Donkey sits in the front row and always asks transcendental questions. Sometimes
 throughts feel like an unfiltered TikTok video stream.
 
 ## Detailed Breakdown  
